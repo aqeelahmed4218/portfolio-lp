@@ -90,6 +90,13 @@ nav ul li a:hover::after{
     animation: back 20s linear infinite;
 }
 
+.row a{
+    transition: 0.2s;
+}
+
+.row a:hover{
+    transform: scale(1.2) translateY(-5px);
+}
 
 
 @keyframes back{
