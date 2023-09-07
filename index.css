@@ -95,7 +95,7 @@ nav ul li a:hover::after{
 }
 
 .row a:hover{
-    transform: scale(1.2) translateY(-5px);
+    transform: scale(0.98);
 }
 
 
